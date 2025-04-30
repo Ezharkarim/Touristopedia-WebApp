@@ -1,0 +1,16 @@
+.bglogin{
+    background-image: url("/public/images/bg1.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.col-12{
+    opacity: 70%;
+}
+.col-12:hover{
+    transition-delay: 100ms;
+    opacity: 90%;
+}
+.sh1{
+    color: #003580;
+}

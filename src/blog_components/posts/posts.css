@@ -1,0 +1,12 @@
+#postes{
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    border-right: ridge;
+    border-bottom: ridge;
+}
+.pst{
+    border-style: ridge;
+
+}

@@ -1,0 +1,114 @@
+
+.container1
+{
+	width: 100%;
+    max-width: 1024px;
+    margin:0px 0px 0px 0px;
+	padding-top: 113px;
+	background-color: #003580;
+    opacity: 80%;
+}
+
+
+/*********************************
+11. Copyright
+*********************************/
+
+.copyright
+{
+	background-color: #003580;
+}
+.copyright_content
+{
+	height: 52px;
+}
+.copyright_content div
+{
+	font-size: 12px;
+	font-weight: 600;
+	color: #685677;
+}
+.footer_nav_container
+{
+	height: 52px;
+}
+
+.footer_nav_list
+{
+	font-size: 0px;
+}
+.footer_nav_item
+{
+	display: inline-block;
+	margin-right: 40px;
+}
+.footer_nav_item a
+{
+	font-size: 12px;
+	font-weight: 600;
+	color: #685677;
+	text-transform: uppercase;
+	line-height: 2;
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+}
+.footer_nav_item a:hover
+{
+	color: #FFFFFF;
+}
+
+
+
+/* 
+
+
+.footer{
+    width: 100%;
+    max-width: 1024px;
+    font-size: 20px;
+  
+}
+.fLists{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+
+}
+.fText{
+    margin-left: 400px;
+    font-size: 18px;
+    
+   
+
+   
+}
+.fList{
+    list-style: none;
+
+}
+.fListItem{
+    color: blueviolet;
+    cursor: pointer;
+    
+}
+.fListItem:hover{
+    transform: scale(1.04);}
+
+.logo1{
+    
+        height: 40px;
+        width: 40px;
+        border-style: double;
+        
+        border-radius: 100px;
+    }   
+.sp123{
+    margin-right: 30px;
+    margin-bottom: 20px;
+    align-items: center;
+   
+}     */
